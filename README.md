@@ -537,18 +537,6 @@ Biomedical-Signal-Analysis-MATLAB/
 └── README.md
 ```
 
-未來可加入：
-
-```text
-docs/
-└── images/
-    ├── ecg_ppg_overview.png
-    ├── imu_partA.png
-    ├── imu_walking.png
-    ├── imu_sitstand.png
-    ├── emg_overview.png
-    └── emg_fatigue.png
-```
 
 ---
 
@@ -589,7 +577,7 @@ docs/
 | Sit-to-Stand Analysis | ✅ |
 | EMG Analysis | ✅ |
 | EMG Fatigue Analysis | ✅ |
-| README Images | 🚧 待加入 |
+| README Images | ✅ |
 
 ---
 
