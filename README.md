@@ -158,6 +158,7 @@ docs/images/ecg_ppg_overview.png
 
 ![ECG 與 PPG 分析結果](docs/images/ecg_ppg_overview.png)
 -->
+<img width="1156" height="749" alt="鼻中膈" src="https://github.com/user-attachments/assets/f9f1281c-4a10-4768-a3d0-ef6e8340389c" />
 
 ---
 
