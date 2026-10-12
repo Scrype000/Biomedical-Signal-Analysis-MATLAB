@@ -283,7 +283,8 @@ flowchart LR
 
 ### IMU 結果圖片
 
-<img width="1171" height="774" alt="113028008_Group6_PartA_上下抬手10次_Trial1" src="https://github.com/user-attachments/assets/27d9f0ce-bbf8-42ba-9f46-59209762d242" />
+<img width="1171" height="774" alt="113028008_Group6_PartA_上下抬手10次_Trial1" src="https://github.com/user-attachments/assets/06fea336-794d-4217-ba65-8bf8e3943593" />
+
 
 <img width="1177" height="778" alt="Part A - 113028008_Group6_PartA_上下抬手10次_Trial1" src="https://github.com/user-attachments/assets/d873f883-c717-4f86-bb20-4a52b2ad23a7" />
 
@@ -419,19 +420,8 @@ vs.
 
 ### EMG 結果圖片
 
-<!--
-建議加入：
+<img width="769" height="495" alt="截圖 2026-10-12 下午1 27 07" src="https://github.com/user-attachments/assets/b26e81a1-737a-4bc8-b96a-b2558e9b566c" />
 
-docs/images/emg_overview.png
-docs/images/emg_envelope.png
-docs/images/emg_fatigue.png
-
-例如：
-
-![Raw、Rectified 與 Envelope EMG](docs/images/emg_overview.png)
-
-![持續收縮 EMG 疲勞趨勢](docs/images/emg_fatigue.png)
--->
 
 ---
 
