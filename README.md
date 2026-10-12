@@ -149,15 +149,7 @@ PPG systolic peak
 
 ### 分析結果圖片
 
-<!--
-將 MATLAB 輸出的代表性圖片放入：
 
-docs/images/ecg_ppg_overview.png
-
-然後取消下面這行註解：
-
-![ECG 與 PPG 分析結果](docs/images/ecg_ppg_overview.png)
--->
 <img width="1156" height="749" alt="鼻中膈" src="https://github.com/user-attachments/assets/f9f1281c-4a10-4768-a3d0-ef6e8340389c" />
 
 ---
@@ -291,21 +283,10 @@ flowchart LR
 
 ### IMU 結果圖片
 
-<!--
-建議加入：
+<img width="1171" height="774" alt="113028008_Group6_PartA_上下抬手10次_Trial1" src="https://github.com/user-attachments/assets/27d9f0ce-bbf8-42ba-9f46-59209762d242" />
 
-docs/images/imu_partA.png
-docs/images/imu_walking.png
-docs/images/imu_sitstand.png
+<img width="1177" height="778" alt="Part A - 113028008_Group6_PartA_上下抬手10次_Trial1" src="https://github.com/user-attachments/assets/d873f883-c717-4f86-bb20-4a52b2ad23a7" />
 
-例如：
-
-![IMU 六軸動作分析](docs/images/imu_partA.png)
-
-![IMU 步數偵測](docs/images/imu_walking.png)
-
-![起立坐下偵測](docs/images/imu_sitstand.png)
--->
 
 ---
 
